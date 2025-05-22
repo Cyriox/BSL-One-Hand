@@ -21,7 +21,7 @@ venv\Scripts\activate
 
 ### 2. Install the required librairies
 
-pip install -r requirements.txt
+pip install -r req.txt
 
 ### 3. Run the model training
 
